@@ -14,4 +14,4 @@
 
 ## run the model
 
-*  just run liveView.py
+*  Just run liveView.py to see live preview using webcam
